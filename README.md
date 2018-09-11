@@ -1,5 +1,5 @@
 [![Docker Status](https://dockerbuildbadges.quelltext.eu/status.svg?organization=onekiloparsec&repository=heroku-cli-yarn-git-subtree)](https://hub.docker.com/r/onekiloparsec/heroku-cli-yarn-git-subtree/)
-[![CircleCI](https://circleci.com/gh/onekiloparsec/dockerfile-heroku-cli-yarn-git-subtree.svg?style=svg)](https://circleci.com/gh/onekiloparsec/dockerfile-heroku-cli-yarn-git-subtree)
+[![CircleCI](https://circleci.com/gh/onekiloparsec/heroku-cli-yarn-git-subtree.svg?style=svg)](https://circleci.com/gh/onekiloparsec/heroku-cli-yarn-git-subtree)
 
 # onekiloparsec/heroku-cli-yarn-git-subtree
 Dockerfile for Heroku deployment of Node.js project (with a dist/ folder).
